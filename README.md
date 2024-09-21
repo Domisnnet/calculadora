@@ -5,8 +5,6 @@ Limpar Visor: Botão "C" para limpar o visor.
 Ponto Decimal: Botão "." para inserir ponto decimal.
 Igualdade: Botão "=" para calcular o resultado da operação.
 Como Usar:
-Clone o repositório:
-git clone https://github.com/seu-usuario/calculadora.git
 Abra o arquivo index.html em seu navegador web.
 Utilize os botões da calculadora para realizar as operações desejadas.
 Estrutura do Projeto:
